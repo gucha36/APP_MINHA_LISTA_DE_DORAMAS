@@ -1,0 +1,40 @@
+name: meus_doramas
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  lottie: ^2.0.0
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.10.0
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "lib/assets/Designer.png"
+  remove_alpha_ios: true
+
+flutter:
+  uses-material-design: true
+  assets:
+    - lib/assets/assistidos.png
+    - lib/assets/Designer.png
+    - lib/assets/favoritos.png
+    - lib/assets/para_assistir.png
+    - lib/assets/seta esquerda.png
+    - lib/assets/florcerejeira.png
+
+  fonts:
+    - family: IngridDarling
+      fonts:
+        - asset: lib/assets/fonts/IngridDarling-Regular.ttf
