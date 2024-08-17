@@ -21,11 +21,11 @@
 
 1. Clone este repositório para o seu ambiente local:
    ```bash
-   git clone https://github.com/seu-usuario/minha-lista-de-doramas.git
+   git clone https://github.com/seu-usuario/meus_doramas.git
    ```
 2. Navegue até o diretório do projeto:
    ```bash
-   cd minha-lista-de-doramas
+   cd meus_doramas
    ```
 3. Instale as dependências:
    ```bash
