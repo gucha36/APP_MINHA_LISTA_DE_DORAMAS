@@ -21,7 +21,7 @@
 
 1. Clone este repositório para o seu ambiente local:
    ```bash
-   git clone https://github.com/seu-usuario/meus_doramas.git
+   git clone https://github.com/seu-usuario/Meu-Primeiro-App.git
    ```
 2. Navegue até o diretório do projeto:
    ```bash
