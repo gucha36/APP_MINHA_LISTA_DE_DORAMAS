@@ -1,7 +1,3 @@
-Claro! Aqui está uma descrição que você pode usar para o seu projeto no GitHub:
-
----
-
 # Minha Lista de Doramas
 
 **Minha Lista de Doramas** é um aplicativo desenvolvido para gerenciar suas séries de dorama favoritas. Com este app, você pode adicionar, organizar e acompanhar seus doramas de forma fácil e intuitiva. O aplicativo possui três categorias principais:
