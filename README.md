@@ -9,6 +9,7 @@
 ## Funcionalidades
 
 - **Adicionar Doramas:** Inclua novos doramas nas categorias desejadas.
+- **Editar Doramas:** Edite seus doramas já adicionados na lista.
 - **Excluir Doramas:** Remova doramas da sua lista quando necessário.
 - **Interface Intuitiva:** Navegação fácil e interface amigável para uma experiência de usuário agradável.
 
@@ -17,22 +18,5 @@
 - **Flutter:** Para desenvolvimento de aplicativos móveis.
 - **Dart:** Linguagem de programação usada no Flutter.
 
-## Como Rodar o Projeto
 
-1. Clone este repositório para o seu ambiente local:
-   ```bash
-   git clone https://github.com/seu-usuario/Meu-Primeiro-App.git
-   ```
-2. Navegue até o diretório do projeto:
-   ```bash
-   cd meus_doramas
-   ```
-3. Instale as dependências:
-   ```bash
-   flutter pub get
-   ```
-4. Execute o aplicativo:
-   ```bash
-   flutter run
-   ```
 
